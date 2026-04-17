@@ -263,6 +263,7 @@
 ### General
 
 - [/create-hook](https://github.com/omril321/automated-notebooklm/blob/main/.claude/commands/create-hook.md) by [Omri Lavi](https://github.com/omril321) - Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...).
+- [/cx](https://github.com/WaziXuan/claude-cx) by [WaziXuan](https://github.com/WaziXuan) - Activates a Claude-plans-Codex-executes workflow: Claude analyzes the request and writes a structured implementation spec, then delegates execution to the OpenAI Codex plugin. Includes `/cx-help` for a quick reference card. Requires the Codex plugin for Claude Code.
 - [/linux-desktop-slash-commands](https://github.com/danielrosehill/Claude-Code-Linux-Desktop-Slash-Commands) by [Daniel Rosehill](https://github.com/danielrosehill) - A library of slash commands intended specifically to facilitate common and advanced operations on Linux desktop environments (although many would also be useful on Linux servers). Command groups include hardware benchmarking, filesystem organisation, and security posture validation.
 
 ### Version Control & Git
